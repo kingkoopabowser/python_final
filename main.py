@@ -6,7 +6,7 @@ delay = 0.1
 score = 0
 highscore = 0
 wn = turtle.Screen()
-wn.title("Python not snake")
+wn.title("Python")
 wn.bgcolor("green")
 wn.setup(width=600, height=600)
 wn.tracer(0)
